@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Thu Aug  1 18:04:02 2017
 
-@author: Divyansh Shukla
-"""
 
 import tkinter
 import tkinter.messagebox
